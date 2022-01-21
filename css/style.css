@@ -1,0 +1,27 @@
+
+.containeradmin{
+    text-align: right;
+}
+table{
+    width: 50%;
+    text-align:center;
+    border: 1;
+}
+body{
+    background-color: rgb(202, 182, 156);
+}
+.admintitle{
+    background-color: #b1534e;
+    color: #fff;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 140px;
+    line-height: 140px;
+    margin-bottom: 50px;
+}
+.logout{
+     float:right;
+     margin-right:30px; 
+     color:#fff; 
+     font-size:20px;
+}
